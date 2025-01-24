@@ -14,7 +14,7 @@ pipeline {
         GITHUB_CREDENTIAL_ID = 'github-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'crpi-3rv75yskm936qn3a.cn-guangzhou.personal.cr.aliyuncs.com'
-        DOCKERHUB_NAMESPACE = 'aliyun7148644078'
+        DOCKERHUB_NAMESPACE = 'atguigumallhuanyu'
         GITHUB_ACCOUNT = 'huanyuyunhuang'
         APP_NAME = 'sonar-qube'
     }
